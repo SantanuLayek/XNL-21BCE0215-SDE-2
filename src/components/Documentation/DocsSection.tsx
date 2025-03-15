@@ -88,7 +88,7 @@ const DocsSection = () => {
             <CardHeader>
               <CardTitle className="flex items-center gap-2">
                 <BarChart2 className="h-5 w-5" />
-                Architecture Diagrams
+                {/* Architecture Diagrams */}
               </CardTitle>
               <CardDescription>
                 System design and data flow visualizations
